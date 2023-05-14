@@ -34,7 +34,7 @@ namespace webbläsare
 
         private void button5_Click(object sender, EventArgs e)
         {
-            webBrowser1.Navigate("https://duckduckgo.com")
+            webBrowser1.Navigate("https://duckduckgo.com");
         }
 
         private void button4_Click(object sender, EventArgs e)
